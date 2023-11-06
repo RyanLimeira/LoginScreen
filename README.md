@@ -1,4 +1,4 @@
-# Sistema de Autenticação Simples
+# Login Screen simples
 
 Este é um sistema de autenticação simples desenvolvido em Java. Ele consiste em duas classes principais:
 
